@@ -1867,7 +1867,7 @@
 <XPD:REF name="Owner">+lfm4mI0sEKfYflglb/nJgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="PsJfyZJEjUCDWlGkg6cjfQAA">
-<XPD:ATTR name="Name" type="string">manterPassagem</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">CRUDPassagem</XPD:ATTR>
 <XPD:REF name="Owner">+lfm4mI0sEKfYflglb/nJgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#TypedFeatures" type="integer">1</XPD:ATTR>
@@ -1892,7 +1892,7 @@
 <XPD:REF name="Views[3]">Aj5LWfEZZ0aQq6uAEyrbHQAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="gTkaiitc+Ey5MvXcmSz8rQAA">
-<XPD:ATTR name="Name" type="string">manterPassageiro</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">CRUDPassageiro</XPD:ATTR>
 <XPD:REF name="Owner">W6EaMHGKuEiby5wfQOpbFQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">3</XPD:ATTR>
@@ -1916,7 +1916,7 @@
 <XPD:REF name="Views[3]">7INMyEu0J0m6FPNDf9pSMwAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="k3xKrSqKzU6YzyrqM1UjgAAA">
-<XPD:ATTR name="Name" type="string">manterPassageiro</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">CRUDPassageiro</XPD:ATTR>
 <XPD:REF name="Owner">YLVYfEHLLEOiCZAVUtyZFQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
@@ -1939,7 +1939,7 @@
 <XPD:REF name="Views[3]">rA8+yXhpJEajv5iFxhkOvgAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="bA6UeWvWJE2Gebw18U59WwAA">
-<XPD:ATTR name="Name" type="string">manterVoo</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">CRUDVoo</XPD:ATTR>
 <XPD:REF name="Owner">OQe1PqfX2kCdCputV2iJCwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#TypedFeatures" type="integer">1</XPD:ATTR>
@@ -1970,7 +1970,7 @@
 <XPD:REF name="Views[3]">gKWrynxCiESzP+lqpzwrDwAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="r6xC4Oi3lUifaFnyp6ghoAAA">
-<XPD:ATTR name="Name" type="string">manterVoo</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">CRUDVoo</XPD:ATTR>
 <XPD:REF name="Owner">NyngFKOiqk+uywXe0QYJWQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
